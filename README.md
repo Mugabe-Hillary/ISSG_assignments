@@ -8,7 +8,7 @@ and parallel.
 In this problem, you will write a Python program to compute the equivalent
 resistance of a set of resistors connected in a combination of series and parallel arrangements.
 
-## Problem 2: 
+## [Problem 2:](Number_2.py) 
 Capacitor Charging and Discharging Simulation in an RC Circuit
 Objective: Write a Python program that simulates the charging and discharging process of a
 capacitor in a simple RC circuit and displays the voltage across the capacitor at each time step.
@@ -20,5 +20,5 @@ Use the equations for capacitor voltage in an RC circuit during charging and dis
 also create a plot for these graphs showing the charging and discharging of the capacitor (you can
 use pyplot and matplotlib libraries).
 
-## Problem 3: 
+## [Problem 3: ](Number_3.py)
 Gauss Siedel Method for Load Flow Analysis using Python
