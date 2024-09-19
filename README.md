@@ -1,5 +1,5 @@
 # Python_Assignment
-## Problem 1: 
+## [Problem 1:](Number_1.py) 
 Circuit Simulator for Resistors in Series and Parallel
 ### Objective:
 Develop a Python program that simulates the behavior of resistors connected in series
